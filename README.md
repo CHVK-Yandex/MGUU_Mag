@@ -5,4 +5,4 @@ $(a+b)^{2}=a^{2}+2ab+b^{2}$
 
 
 
-$xyu^2 + bx + c = pizda$
+$𓂺xyu^2 + bx + c = pizda$
